@@ -1,0 +1,10 @@
+.texto{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    display: flex;
+}
+body{
+    width: 90vh;
+}
